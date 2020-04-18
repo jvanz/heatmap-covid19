@@ -4,3 +4,4 @@ folium==0.10.1
 pandas==1.0.1
 geopandas==0.7.0
 geopy==1.21.0
+dask[complete]
